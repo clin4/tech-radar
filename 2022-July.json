@@ -26,5 +26,12 @@
     "quadrant": "DevOps",
     "isNew": "TRUE",
     "description": "Try"
+  },
+  {
+    "name": "Test",
+    "ring": "hold",
+    "quadrant": "Test",
+    "isNew": "TRUE",
+    "description": "Try"
   }
 ]
