@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Linkerd",
+    "ring": "trial",
+    "quadrant": "ServiceMesh",
+    "isNew": "TRUE",
+    "description": "Try"
+  }
+]
