@@ -5,5 +5,26 @@
     "quadrant": "ServiceMesh",
     "isNew": "TRUE",
     "description": "Try"
+  },
+  {
+    "name": "Trivy",
+    "ring": "trial",
+    "quadrant": "Security",
+    "isNew": "TRUE",
+    "description": "Try"
+  },
+  {
+    "name": "Noobea",
+    "ring": "hold",
+    "quadrant": "Data",
+    "isNew": "TRUE",
+    "description": "Try"
+  },
+  {
+    "name": "GitOps",
+    "ring": "hold",
+    "quadrant": "DevOps",
+    "isNew": "TRUE",
+    "description": "Try"
   }
 ]
